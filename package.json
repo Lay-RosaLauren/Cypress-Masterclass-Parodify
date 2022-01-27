@@ -1,0 +1,16 @@
+{
+  "name": "cypress-masterclass-01-parodify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testOpen": "npx cypress open",
+    "testRun": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Lay-RosaLauren",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
